@@ -5,10 +5,10 @@ AI-powered glaucoma detection system with explainable heatmaps for early screeni
 ## 📸 Output
 
 ### 🖥️ Upload Interface
-![Upload Interface](images/upload_interface.png)
+![Upload Interface](image/upload_interface.png)
 
 ### 🧠 AI Processing Interface
-![Interface](images/interface.png)
+![Interface](image/interface.png)
 
 ### 📊 AI Screening Report
-![Report](images/report.png)
+![Report](image/report.png)
